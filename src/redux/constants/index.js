@@ -1,0 +1,3 @@
+export const SET_BMI_FORM_STATE="SET_BMI_FORM_STATE"
+export const SET_APP_STATE="SET_APP_STATE"
+export const SET_APP_DATA="SET_APP_DATA"
